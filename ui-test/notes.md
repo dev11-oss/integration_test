@@ -1,3 +1,3 @@
 # UI test
 
-Written by ResultBull.
+Written and edited by ResultBull.
