@@ -1,0 +1,9 @@
+name: resultbull-test
+on:
+  workflow_dispatch:
+jobs:
+  hello:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "hello from ResultBull"
+      - run: sleep 60
